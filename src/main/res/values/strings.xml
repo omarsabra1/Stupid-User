@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">stupid user</string>
+    <string name="my_name">omar sabra</string>
+    <string name="on_Click">you clicked</string>
+    <string name="myresult">result</string>
+    <string name="my_sumButton">sum</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+</resources>
